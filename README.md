@@ -33,10 +33,10 @@ Para clonar este repositório e explorar os testes realizados:
 
 ```bash
 # 1. Clone este repositório
-git clone https://github.com[SEU-USUARIO-DO-GITHUB]/[NOME-DO-REPOSITORIO].git
+git clone https://github.com/GustavoRBSAntos/Aula02Git.git
 
 # 2. Acesse a pasta do projeto
-cd [NOME-DO-REPOSITORIO]
+cd Aula02Git
 ```
 
 Objetivo de Aprendizado
